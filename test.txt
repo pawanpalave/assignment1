@@ -1,0 +1,5 @@
+#def data_fetch(test.txt)
+    fp=open("test,txt",'r')
+    data=fp.readlines()
+    return data
+
